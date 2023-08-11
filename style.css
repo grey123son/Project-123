@@ -1,0 +1,12 @@
+.heading{
+    background-color:antiquewhite;
+
+    width: 100%;
+}
+.copy_right_footer{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: antiquewhite;
+    bottom: 0px;
+}
