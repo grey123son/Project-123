@@ -1,7 +1,13 @@
 .heading{
     background-color:antiquewhite;
-
+    color:grey;
     width: 100%;
+}
+#squareSize{
+    font-size: 25;
+}
+#note{
+    font-size: 15;
 }
 .copy_right_footer{
     width: 100%;
